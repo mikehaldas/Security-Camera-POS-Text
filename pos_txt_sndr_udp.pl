@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/local/bin/perl 
 
 # pos_txt_sndr_udp.pl			
 # Sample POS Text Integration for Viewtron Secuity Camera Systems.
